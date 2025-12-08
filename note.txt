@@ -5,7 +5,7 @@ Modifié le texte,
 Referencement Local et réseau sociaux
 Micro données avec schéma.org 
 
-Données : ( 68 avenue alsace lorraine 33200 bordeaux , 05 56 67 78 89  , du lundi au vendredi de 10h à 19h )  réseau sociaux : Utilisation de balise balise méta 
+Données : ( 68 avenue alsace lorraine 33200 bordeaux , 05 56 67 78 89  , du lundi au vendredi de 10h à 19h ) réseau sociaux : Utilisation de balise balise méta 
 
 
 
@@ -26,7 +26,7 @@ Première analyse du code avec lighthouse :
 
 Performance :
 
-Image trop volumineuse, réduire la taille des images ( les images sont en 2k ou 4k ) ✅ ok apres redimension des images pour transformation en webp
+Image trop volumineuse, réduire la taille des images ( les images sont en 2k ou 4k ) ✅ ok apres redimensionnement des images pour transformation en webp
 Réduire la charge utile du réseau ( sera fait en même temps que les images car les images sont très couteux ) ✅
 
 Réduire le délais des données qui sont mises dans les caches ❌
@@ -39,7 +39,7 @@ Accessibilité  :
 Certaines images n’ont pas d’attribut, rajouté un attribut sur les images pour amélioré le Référencement. ✅
 Rajouté une balise <title> dans le head car actuellement il n’y en a pas  ✅
 Rajouté un nom sur les liens par exemple Instagram ou autre choses ce qui permet d’aider les utilisateurs lors du passage du curseur sur l’élément. ✅
-Le formulaire n’est pas associé à des libellés.   ✅
+Le formulaire n’est pas associé à des libellés. ✅
 
 SEO : 
 
@@ -48,3 +48,12 @@ Rajouté des attributs «  meta description » ✅
 Les images n’ont pas d’attribut ✅
 
 
+
+
+
+
+
+Choses à faire : 
+
+Faire en sort que avec l'extension, tout soit à 100% 
+Faire en sorte de pouvoir défilé les images quand on clique dessuss
